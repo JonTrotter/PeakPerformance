@@ -30,7 +30,7 @@ The Nexus of Peak Performance is Arcadia, the capital city of godly beings. It i
 2. If an excussion happens that rewards experince or gold upon success, characters are awarded with a percentage of the reward in relation to the session attended. So if an arc takes 2 sessions and rewards 1000xp and 500gp, if you play both you get the full reward, and if you play one, you will get 1/2 the reward.
 3. Players will plan together and choose what excursions to go on from a variety of options, all with known risk and reward. Excursions will be described in a manner that eludes to or details at least some of the enounter specifics to make planning fun.
 3. You can join an arc/excursion at any time.
-4. You can not attend any session, but if your character is participating in an excursion, the party can choose play your character in good faith during your absance up until the end of that excursion
+4. You can attend, or not attend any session. If your character is participating in an excursion, the party will be allowed to choose to play your character in good faith during your absance up until the end of that excursion.
 5. Players will control their own guilds that will comprise of all of their playable characters. Gold and items are shareable between all members of guild.
 6. All free characters start at level 3. Higher level characters may be purchased/hired.
 7. The over all campaign will not be character driven, but there are incentives/rewards to playing characters well. Each character must have 2 motives/goals. When a character accomplishes a goal, or acts accordingly with a motive, they will receive a boon. An accomplished goal will be replaced with a new one.
