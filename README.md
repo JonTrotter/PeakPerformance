@@ -14,7 +14,7 @@ Peak Performance is a more like a serialized set of web shorts, where a traditio
 
 Players are not required to attend every session, and each session will be a large part of a short story/battle arc, effectivly becomeing a series of loosly coupled one shots. 
 
-Players are provided the opportunity to change characters as much as they like, with insentives to level up a set of their own characters.
+Players are provided the opportunity to change characters as much as they like, with insentives to level up a set characters.
     
 ## Setting
 
@@ -22,7 +22,7 @@ Peak Performance is a nexus style campaign, where there will be a singular nexus
 
 ### Arcadia
 
-The Nexus of Peak Performance is Arcadia, the capital city of godly beings. It is a golden utopia where mortals are employed to carry out the deeds of the gods. Arcadia is a place where exceptional individuals tip the scales in favor of the gods they choose, and are rewarded with imortality should they remain useful. Arcadia sits atop a massive mountain above the clouds. Where this mountain sits is anyones best guess. Arcadia is a place of politics and corporate B.S. as the gods wage war no longer with direct violance, but with marketing campaigns to win over followers while diminishing the followings of their competitors.
+The Nexus of Peak Performance is Arcadia, the capital city of godly beings. It is a golden utopia where mortals are employed to carry out the deeds of the gods. Arcadia is a place where exceptional individuals tip the scales in favor of the gods they choose, and are rewarded with imortality should they remain useful. Arcadia sits atop a massive mountain peak above the clouds. Where and when this mountain is, is anyones best guess. Arcadia is a place of politics and corporate B.S. as the gods wage war no longer with direct violance, but with marketing campaigns to win over followers while diminishing the followings of their competitors. A gods power is in direct relation to the quantity and quality of their worshipers.
 
 # Basic Rules
 
