@@ -15,6 +15,8 @@ Peak Performance is a more like a serialized set of web shorts, where a traditio
 Players are not required to attend every session, and each session will be a large part of a short story/battle arc, effectively becoming a series of loosely coupled one shots. 
 
 Players are provided the opportunity to change characters as much as they like, with incentives to level up a set characters.
+
+Character death will happen. This campaign is not character driven, and is meant to allow for experimentation, and real failure. Punches will not be pulled, and rolls will not be fudged. If an encounter is marked as deadly for the group, that is part of negotiating the risk and rewards, and what missions are chosen.
     
 ## Setting
 
