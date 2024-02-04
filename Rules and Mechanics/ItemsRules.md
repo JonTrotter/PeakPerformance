@@ -1,5 +1,15 @@
-## A Character may attune to items up to the limit as indicated in the chart below. 
-### A character can attune to items below their tier. Ex. Tier 4 character can attune to 1 Rare item, and any remaining attunement slots can be filled by items of a lower rarity    
+### Items Rules
+
+Items of uncommon or higher, cannot be transferred  to other players characters.
+
+Items of any level can be transferred between members of the same guild.
+
+Items of higher levels become available according to the rarity available to the guild boss' item tier.
+
+A Character may attune to items according to their item tier.
+
+All items on dnd beyond are fair game, pricing and quantity available will be determined by dm upon request.
+
 ### Tier 1 (1st - 3rd)	
     1 Uncommon
 
