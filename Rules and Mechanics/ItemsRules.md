@@ -1,6 +1,6 @@
 ## A Character may attune to items up to the limit as indicated in the chart below. 
 ### A character can attune to items below their tier. Ex. Tier 4 character can attune to 1 Rare item, and any remaining attunement slots can be filled by items of a lower rarity    
-### Tier 1 (1st-3rd)	
+### Tier 1 (1st - 3rd)	
     1	Uncommon
 
 ### Tier 2 (4th)
@@ -24,10 +24,10 @@
 ### Tier  8 (10th - 11th)  
     2  Very Rare
 
-### Tier   9 (13th - 13th) 
+### Tier   9 (12th - 13th) 
     3  Very Rare
 
-### Tier 11 (14th 15th)    
+### Tier 11 (14th - 15th)    
     1 Legendary
 
 ### Tier 12 (16th - 17th)  
