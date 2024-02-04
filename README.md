@@ -39,6 +39,9 @@ The Nexus of Peak Performance is Arcadia, the capital city of godly beings. It i
 8. A guild will have its choice of boons. These boons will apply to character creation in the form of a free feat, ASI, Improved starting equipment, extra gold, etc. The specifics will be laid out in the formal rule book.
 9. The guilds will receive boons dictated by the highest level character in the guild (Guild boss)
 10. If all characters in a guild die, or the guild goes bankrupt the player creates a new guild.
+11. Every mission requires representation from every player present.
+13. Gold and uncommon+above items are only transferable between guild members.
+14. Items held by a character are lost upon character death.
 
 # Player/Game Goals
 1. Have fun
