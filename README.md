@@ -46,7 +46,8 @@ The Nexus of Peak Performance is Arcadia, the capital city of godly beings. It i
 3. Play around with character concepts and race/class combinations.
 4. Work together to create teams well suited to the tasks at hand.
 
-# Player Responsabilities
+# Player Responsibilities
 1. Be mindful of the other players. Make decisions that you think will maximize the fun for yourself as well as others.
-1. Do not make characters that are not willing to work with a party. You can make a character that is unfriendly or socially flawed, but it is the players responsability to make sure that is not causing issues, by derailing the party or making players uncomfortable. If you choose to make a very unlikable character, be sure to talk to the other players first.
+1. Do not make characters that are not willing to work with a party. You can make a character that is unfriendly or socially flawed, but it is the players responsibility to make sure that is not causing issues, by derailing the party or making players uncomfortable. If you choose to make a very unlikable character, be sure to talk to the other players first.
 3. Be willing to accept imperfection. DMs and players make mistakes that have consequences. That's ok. Reasonable corrections may be considered or not depending on the situation in the spirit of fun and fairness.
+4. Players will be responsible for keeping their Guild/Character sheets up to date, and submitting them at the end of each session
