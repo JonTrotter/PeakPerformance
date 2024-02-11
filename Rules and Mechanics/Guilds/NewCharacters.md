@@ -8,6 +8,8 @@ New Hires come with starting equipment
 A guild may hire new characters one level below the highest leveled character in that guild
 
 All characters use standard array
+All characters subject to encumbrance rules. (gold applies)
+
 
 ## Level	Cost
 ### 1	
