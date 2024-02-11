@@ -50,3 +50,5 @@ All characters subject to encumbrance rules. (gold applies)
 	500,000 gp
 ### 19
 	1,000,000 gp
+
+![alt text](../../z-extra-reference%20images//char-creation-template.png)
