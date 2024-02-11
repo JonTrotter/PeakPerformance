@@ -2,12 +2,12 @@
 
 When a new guild is formed, it acquires a level 3 character with Starting equipment plus 200g
 
+After which, additional characters will cost money to hire. 
+New Hires come with starting equipment 
+
 A guild may hire new characters one level below the highest leveled character in that guild
 
 All characters use standard array
-
-After which, additional characters will cost money to hire. 
-New Hires come with starting equipment 
 
 ## Level	Cost
 ### 1	
