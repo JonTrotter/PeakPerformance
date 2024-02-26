@@ -1,6 +1,6 @@
 ### Items Rules
 
-Items of uncommon or higher, cannot be transferred  to other players characters.
+Items of uncommon or higher, cannot be transferred to other players characters unless they are consumables. (Potions, Crafting/Spell Components, Ammunition etc.)
 
 Items of any level can be transferred between members of the same guild.
 
@@ -8,7 +8,7 @@ Items of higher levels become available according to the rarity available to the
 
 A Character may attune to items according to their item tier.
 
-All items on dnd beyond are fair game, pricing and quantity available will be determined by dm upon request.
+All items on dnd beyond are fair game (excluding homebrew items not included in this campaign), pricing and quantity available will be determined by dm upon request when not specified by 5e rule set.
 
 ### Tier 1 (1st - 3rd)	
     1 Uncommon
