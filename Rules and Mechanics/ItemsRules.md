@@ -37,14 +37,14 @@ All items on dnd beyond are fair game (excluding homebrew items not included in 
 ### Tier   9 (12th - 13th) 
     3 Very Rare
 
-### Tier 11 (14th - 15th)    
+### Tier 10 (14th - 15th)    
     1 Legendary
 
-### Tier 12 (16th - 17th)  
+### Tier 11 (16th - 17th)  
     2 Legendary
 
-### Tier 13 (18th - 20th)  
+### Tier 12 (18th - 20th)  
     3 Legendary
 
-### Tier 14 
+### Tier 13 
     Extra attunement slot
